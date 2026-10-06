@@ -7,9 +7,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wondrv&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  <img src="https://img.shields.io/github/followers/wondrv?style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  <img src="https://img.shields.io/github/stars/wondrv?style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://komarev.com/ghpvc/?username=0xyz-exe&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://img.shields.io/github/followers/0xyz-exe?style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://img.shields.io/github/stars/0xyz-exe?style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </div>
 
 </div>
@@ -49,7 +49,7 @@ const niel = {
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/danielachmadfarizki)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-achmad-farizki/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://wondrv.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://0xyz-exe.dev)
 
 </div>
 
@@ -92,16 +92,16 @@ const niel = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wondrv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wondrv&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xyz-exe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xyz-exe&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wondrv&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xyz-exe&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wondrv&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xyz-exe&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true" width="100%">
 </div>
 
 ---
@@ -109,7 +109,7 @@ const niel = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wondrv&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0xyz-exe&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ---
@@ -123,7 +123,7 @@ const niel = {
 <td width="50%">
 
 ### 🌟 Project One
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wondrv&repo=wondrv&theme=tokyonight)](https://github.com/wondrv/wondrv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xyz-exe&repo=0xyz-exe&theme=tokyonight)](https://github.com/0xyz-exe/0xyz-exe)
 
 **Tech Stack:** React, Node.js, MongoDB  
 🔥 **Features:** Responsive design, RESTful API, Real-time updates  
@@ -133,7 +133,7 @@ const niel = {
 <td width="50%">
 
 ### 🎯 Project Two
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wondrv&repo=wondrv&theme=tokyonight)](https://github.com/wondrv/wondrv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xyz-exe&repo=0xyz-exe&theme=tokyonight)](https://github.com/0xyz-exe/0xyz-exe)
 
 **Tech Stack:** Python, Django, PostgreSQL  
 🔥 **Features:** Machine Learning, Data visualization  
@@ -231,10 +231,10 @@ class Developer(Niel):
 <div align="center">
 
 ### 🌈 Profile Views Counter
-![](https://hit.yhype.me/github/profile?user_id=wondrv)
+![](https://hit.yhype.me/github/profile?user_id=0xyz-exe)
 
 ### ⚡ Quick Stats
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wondrv&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xyz-exe&theme=tokyonight)
 
 ---
 
