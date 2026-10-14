@@ -44,30 +44,31 @@ A multi-tenant AI/RAG starter built around Next.js, FastAPI, PostgreSQL, Qdrant,
 
 `NEXT.JS` &nbsp; `FASTAPI` &nbsp; `QDRANT` &nbsp; `REDIS / CELERY` &nbsp; `MINIO`
 
-## 02 / Tech stack
+## 🛠 My Tech Stack
 
-![Four-part technology index: 01 Languages, 02 Interface, 03 Systems and Data, 04 AI and Vision; detailed technologies are listed below](./assets/technology-constellation.svg)
+<p align="center">
+  <a href="https://skillicons.dev" title="Technology icons"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,python,postgres,redis,docker,git,github&theme=dark&perline=14&size=28" alt="Tech stack icons: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, PHP, Python, PostgreSQL, Redis, Docker, Git, and GitHub" /></a>
+</p>
 
-- **LANGUAGES** &nbsp; TypeScript · JavaScript · Python · PHP
-- **FRONTEND** &nbsp; React · Next.js · Vite · Tailwind CSS
-- **APIs / FRAMEWORKS** &nbsp; FastAPI · NestJS · SQLAlchemy · Prisma · Socket.IO
-- **DATA / WORKERS** &nbsp; PostgreSQL · Qdrant · Redis · Celery · MinIO
-- **AI / VISION** &nbsp; OpenAI APIs · retrieval-augmented workflows · YOLO · OpenCV · CLAHE
+<sub>Also in the featured projects: FastAPI · NestJS · SQLAlchemy · Prisma · Socket.IO · Qdrant · Celery · MinIO · OpenCV · YOLO.</sub>
 
-Stack inventory from the featured public repositories; it is not a skill-level ranking.
+## 📊 GitHub Stats
 
-## 03 / GitHub stats
+<p align="center">
+  <a href="https://github.com/0xyz-exe?tab=overview"><img src="https://github-readme-stats.vercel.app/api?username=0xyz-exe&show_icons=true&hide_rank=true&count_private=false&bg_color=1B1F2A&title_color=7AA2F7&text_color=53D8D1&icon_color=BB9AF7&border_color=3A4052" width="49%" alt="Live public GitHub statistics for 0xyz-exe; rank hidden" /></a>
+  <a href="https://github.com/0xyz-exe?tab=overview"><img src="https://streak-stats.demolab.com?user=0xyz-exe&theme=dark&background=1B1F2A&border=3A4052&stroke=3A4052&ring=7AA2F7&fire=BB9AF7&currStreakNum=53D8D1&sideNums=53D8D1&currStreakLabel=7AA2F7&sideLabels=7AA2F7&dates=53D8D1" width="49%" alt="Live GitHub contribution total, current streak, and longest streak for 0xyz-exe" /></a>
+</p>
 
-![A source map pointing visitors to the live GitHub overview, repositories, and contribution activity](./assets/activity-signal.svg)
-
-[![Public GitHub stats for 0xyz-exe, styled in charcoal and chartreuse with rank hidden](https://github-readme-stats.vercel.app/api?username=0xyz-exe&show_icons=true&hide_rank=true&count_private=false&bg_color=0B0D0E&title_color=C6F43A&text_color=CAD0D6&icon_color=C6F43A&border_color=2B3120)](https://github.com/0xyz-exe?tab=overview)
-
-[![Most-used languages by code volume in public repositories; this is not a skill ranking](https://github-readme-stats.vercel.app/api/top-langs/?username=0xyz-exe&layout=compact&langs_count=6&count_private=false&bg_color=0B0D0E&title_color=C6F43A&text_color=CAD0D6&border_color=2B3120)](https://github.com/0xyz-exe?tab=repositories)
+<p align="center">
+  <a href="https://github.com/0xyz-exe?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xyz-exe&layout=compact&langs_count=6&custom_title=Most%20Used%20Languages&count_private=false&bg_color=1B1F2A&title_color=7AA2F7&text_color=53D8D1&border_color=3A4052" width="300" alt="Most used languages by code volume in 0xyz-exe's public repositories; not a proficiency ranking" /></a>
+</p>
 
 - [PROFILE OVERVIEW / contribution activity ↗](https://github.com/0xyz-exe?tab=overview)
 - [PUBLIC REPOSITORIES / current source of project data ↗](https://github.com/0xyz-exe?tab=repositories)
 
-Cards use the public [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) service and may be delayed or rate-limited. Top languages describe code volume across public repositories—not proficiency.
+Stats, streaks, and language proportions come from live public GitHub data and may be delayed or rate-limited. Top languages describe code volume across public repositories—not proficiency.
+
+Cards use the public [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) services.
 
 ## 04 / Outbound
 
