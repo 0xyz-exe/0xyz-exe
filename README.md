@@ -44,25 +44,30 @@ A multi-tenant AI/RAG starter built around Next.js, FastAPI, PostgreSQL, Qdrant,
 
 `NEXT.JS` &nbsp; `FASTAPI` &nbsp; `QDRANT` &nbsp; `REDIS / CELERY` &nbsp; `MINIO`
 
-## 02 / Technology constellation
+## 02 / Tech stack
 
 ![Four-part technology index: 01 Languages, 02 Interface, 03 Systems and Data, 04 AI and Vision; detailed technologies are listed below](./assets/technology-constellation.svg)
 
 - **LANGUAGES** &nbsp; TypeScript · JavaScript · Python · PHP
 - **FRONTEND** &nbsp; React · Next.js · Vite · Tailwind CSS
-- **BACKEND / DATA** &nbsp; FastAPI · NestJS · PostgreSQL · Qdrant · Redis · MinIO
+- **APIs / FRAMEWORKS** &nbsp; FastAPI · NestJS · SQLAlchemy · Prisma · Socket.IO
+- **DATA / WORKERS** &nbsp; PostgreSQL · Qdrant · Redis · Celery · MinIO
 - **AI / VISION** &nbsp; OpenAI APIs · retrieval-augmented workflows · YOLO · OpenCV · CLAHE
 
-These are technologies visible in public repository metadata, code, or documentation; no skill levels are implied.
+Stack inventory from the featured public repositories; it is not a skill-level ranking.
 
-## 03 / Live signal
+## 03 / GitHub stats
 
-![A source map pointing visitors to the live GitHub overview, repositories, and contribution activity; it contains no copied counters](./assets/activity-signal.svg)
+![A source map pointing visitors to the live GitHub overview, repositories, and contribution activity](./assets/activity-signal.svg)
+
+[![Public GitHub stats for 0xyz-exe, styled in charcoal and chartreuse with rank hidden](https://github-readme-stats.vercel.app/api?username=0xyz-exe&show_icons=true&hide_rank=true&count_private=false&bg_color=0B0D0E&title_color=C6F43A&text_color=CAD0D6&icon_color=C6F43A&border_color=2B3120)](https://github.com/0xyz-exe?tab=overview)
+
+[![Most-used languages by code volume in public repositories; this is not a skill ranking](https://github-readme-stats.vercel.app/api/top-langs/?username=0xyz-exe&layout=compact&langs_count=6&count_private=false&bg_color=0B0D0E&title_color=C6F43A&text_color=CAD0D6&border_color=2B3120)](https://github.com/0xyz-exe?tab=repositories)
 
 - [PROFILE OVERVIEW / contribution activity ↗](https://github.com/0xyz-exe?tab=overview)
 - [PUBLIC REPOSITORIES / current source of project data ↗](https://github.com/0xyz-exe?tab=repositories)
 
-GitHub is the live source for repository and contribution information. No mirrored counts or third-party statistics widgets are used here.
+Cards use the public [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) service and may be delayed or rate-limited. Top languages describe code volume across public repositories—not proficiency.
 
 ## 04 / Outbound
 
