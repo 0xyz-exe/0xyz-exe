@@ -56,9 +56,9 @@ A multi-tenant AI/RAG starter built around Next.js, FastAPI, PostgreSQL, Qdrant,
 
 <p align="center">
   <a href="https://github.com/0xyz-exe?tab=overview"><img src="https://github-readme-stats.vercel.app/api?username=0xyz-exe&show_icons=true&hide_rank=true&count_private=false&bg_color=1B1F2A&title_color=7AA2F7&text_color=53D8D1&icon_color=BB9AF7&border_color=3A4052" width="49%" alt="Live public GitHub statistics for 0xyz-exe; rank hidden" /></a>
+<p align="center">
   <a href="https://github.com/0xyz-exe?tab=overview"><img src="https://streak-stats.demolab.com?user=0xyz-exe&theme=dark&background=1B1F2A&border=3A4052&stroke=3A4052&ring=7AA2F7&fire=BB9AF7&currStreakNum=53D8D1&sideNums=53D8D1&currStreakLabel=7AA2F7&sideLabels=7AA2F7&dates=53D8D1" width="49%" alt="Live GitHub contribution total, current streak, and longest streak for 0xyz-exe" /></a>
 </p>
-
 <p align="center">
   <a href="https://github.com/0xyz-exe?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xyz-exe&layout=compact&langs_count=6&custom_title=Most%20Used%20Languages&count_private=false&bg_color=1B1F2A&title_color=7AA2F7&text_color=53D8D1&border_color=3A4052" width="300" alt="Most used languages by code volume in 0xyz-exe's public repositories; not a proficiency ranking" /></a>
 </p>
