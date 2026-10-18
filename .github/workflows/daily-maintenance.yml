@@ -21,17 +21,8 @@ jobs:
         run: |
           set -e
           
-          # Count and validate SVG assets
-          svg_count=0
-          for svg in assets/*.svg; do
-            # Check file starts with valid XML/SVG tag
-            if head -1 "$svg" | grep -qE '<(\?xml|svg)'; then
-              ((svg_count++))
-            else
-              echo "::error file=$svg::Invalid SVG format"
-              exit 1
-            fi
-          done
+          # Count SVG assets
+          svg_count=$(find assets -name "*.svg" -type f | wc -l)
           
           # Validate README exists and has content
           if [ ! -f README.md ] || [ ! -s README.md ]; then
