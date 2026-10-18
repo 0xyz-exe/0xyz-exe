@@ -4,13 +4,33 @@
 
 **Building systems at the edge of software and intelligence.**
 
-I build and explore web software, AI-oriented tools, multi-agent workflows, and computer-vision projects. Developer based in Surabaya, Indonesia.
+I design and engineer web applications, AI-driven tools, multi-agent orchestration systems, and computer-vision pipelines. Full-stack developer and ML engineer based in Surabaya, Indonesia.
 
 [OPEN PORTFOLIO ↗](https://0xyz-exe.github.io/)
 
 <sub>FIELD NOTE / Interface systems · orchestration experiments · applied vision</sub>
 
-## 01 / Project index
+---
+
+## 00 / Engineering Philosophy
+
+I build software where clarity, maintainability, and practical problem-solving matter more than unnecessary complexity. 
+
+**Core principles:**
+- Ship working solutions, iterate from real constraints
+- Automation and developer tooling unlock leverage
+- AI systems need verifiable outcomes, not just impressive demos
+- Document limitations honestly; prefer transparency over marketing
+
+**Current focus:**
+- Full-stack web engineering (Next.js, TypeScript, FastAPI, Python)
+- Multi-agent workflows and LLM orchestration
+- Computer vision applications (OpenCV, YOLO)
+- Developer tooling and automation systems
+
+---
+
+## 01 / Project Index
 
 Each panel is an original illustration of a documented project concept, not a screenshot or a claim that an integration is production-ready.
 
@@ -20,9 +40,11 @@ Each panel is an original illustration of a documented project concept, not a sc
 
 [![Illustrative five-stage agent workflow: market research, branding, content, sales, and analytics; mock mode is documented](./assets/project-001.svg)](https://github.com/0xyz-exe/Autonomous-Business-Builder)
 
-A Next.js/FastAPI prototype that sequences five business-planning agents: market research, branding, content, sales, and analytics. The README documents a local mock mode; no automated tests or hosted demo are listed.
+A Next.js/FastAPI prototype sequencing five business-planning agents: market research, branding, content generation, sales automation, and analytics. The repository documents a local mock mode for testing the orchestration layer without external API dependencies. No automated test suite or hosted demo currently listed.
 
-`NEXT.JS` &nbsp; `TYPESCRIPT` &nbsp; `FASTAPI` &nbsp; `SQLALCHEMY`
+**Stack:** `NEXT.JS` `TYPESCRIPT` `FASTAPI` `SQLALCHEMY`
+
+---
 
 <p><code>PROJECT / 002</code> &nbsp; <code>PAYMENTS · REFERENCE IMPLEMENTATION</code></p>
 
@@ -30,9 +52,11 @@ A Next.js/FastAPI prototype that sequences five business-planning agents: market
 
 [![Illustrative crypto-payment workflow with authentication, invoice, and realtime event layers; not a live transaction diagram](./assets/project-002.svg)](https://github.com/0xyz-exe/CryptoMerchant)
 
-A Next.js/NestJS reference implementation for merchant auth, invoices, and realtime events. Auth/invoice test files are present; its README lists blockchain-provider integrations as future work—not production payment infrastructure.
+A Next.js/NestJS reference implementation exploring merchant authentication, invoice generation, and realtime event delivery for payment workflows. The repository includes test files for auth and invoice modules. README lists blockchain-provider integration as planned future work—this is not production payment infrastructure.
 
-`NESTJS` &nbsp; `NEXT.JS` &nbsp; `PRISMA` &nbsp; `POSTGRESQL` &nbsp; `SOCKET.IO`
+**Stack:** `NESTJS` `NEXT.JS` `PRISMA` `POSTGRESQL` `SOCKET.IO`
+
+---
 
 <p><code>PROJECT / 003</code> &nbsp; <code>AI INFRASTRUCTURE · STARTER</code></p>
 
@@ -40,19 +64,29 @@ A Next.js/NestJS reference implementation for merchant auth, invoices, and realt
 
 [![Illustrative starter architecture linking a Next.js web tier, FastAPI, PostgreSQL, Qdrant, Redis and Celery, and MinIO](./assets/project-003.svg)](https://github.com/0xyz-exe/AI-Workforce-Platform)
 
-A multi-tenant AI/RAG starter built around Next.js, FastAPI, PostgreSQL, Qdrant, Redis/Celery, and MinIO. Its README reports local build/Compose checks (not rerun here); I found no automated tests or `LICENSE` file.
+A multi-tenant AI/RAG platform starter built around Next.js, FastAPI, PostgreSQL, Qdrant vector search, Redis/Celery for async jobs, and MinIO for object storage. README reports passing local build and Docker Compose validation. No automated test suite or license file present in the current repository state.
 
-`NEXT.JS` &nbsp; `FASTAPI` &nbsp; `QDRANT` &nbsp; `REDIS / CELERY` &nbsp; `MINIO`
+**Stack:** `NEXT.JS` `FASTAPI` `QDRANT` `REDIS/CELERY` `MINIO`
 
-## 🛠 My Tech Stack
+---
+
+## 02 / Technical Stack
 
 <p align="center">
   <a href="https://skillicons.dev" title="Technology icons"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,python,postgres,redis,docker,git,github&theme=dark&perline=14&size=28" alt="Tech stack icons: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, PHP, Python, PostgreSQL, Redis, Docker, Git, and GitHub" /></a>
 </p>
 
-<sub>Also in the featured projects: FastAPI · NestJS · SQLAlchemy · Prisma · Socket.IO · Qdrant · Celery · MinIO · OpenCV · YOLO.</sub>
+**Also in the featured projects:** FastAPI · NestJS · SQLAlchemy · Prisma · Socket.IO · Qdrant · Celery · MinIO · OpenCV · YOLO
 
-## 📊 GitHub Stats
+**Languages:** TypeScript, Python, JavaScript, PHP  
+**Web:** Next.js, React, NestJS, FastAPI, Tailwind CSS  
+**Data:** PostgreSQL, Redis, Qdrant (vector search), SQLAlchemy, Prisma  
+**AI/ML:** OpenCV, YOLO, LLM orchestration, RAG pipelines  
+**Infrastructure:** Docker, Git/GitHub, Celery, MinIO/S3
+
+---
+
+## 03 / GitHub Activity
 
 <p align="center">
   <a href="https://github.com/0xyz-exe?tab=overview"><img src="https://github-readme-stats.vercel.app/api?username=0xyz-exe&show_icons=true&hide_rank=true&count_private=false&bg_color=1B1F2A&title_color=7AA2F7&text_color=53D8D1&icon_color=BB9AF7&border_color=3A4052" width="49%" alt="Live public GitHub statistics for 0xyz-exe; rank hidden" /></a>
@@ -63,17 +97,20 @@ A multi-tenant AI/RAG starter built around Next.js, FastAPI, PostgreSQL, Qdrant,
   <a href="https://github.com/0xyz-exe?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xyz-exe&layout=compact&langs_count=6&custom_title=Most%20Used%20Languages&count_private=false&bg_color=1B1F2A&title_color=7AA2F7&text_color=53D8D1&border_color=3A4052" width="300" alt="Most used languages by code volume in 0xyz-exe's public repositories; not a proficiency ranking" /></a>
 </p>
 
-- [PROFILE OVERVIEW / contribution activity ↗](https://github.com/0xyz-exe?tab=overview)
-- [PUBLIC REPOSITORIES / current source of project data ↗](https://github.com/0xyz-exe?tab=repositories)
+**Data sources:**
+- [Profile overview / contribution activity ↗](https://github.com/0xyz-exe?tab=overview)
+- [Public repositories / source of language data ↗](https://github.com/0xyz-exe?tab=repositories)
 
-Stats, streaks, and language proportions come from live public GitHub data and may be delayed or rate-limited. Top languages describe code volume across public repositories—not proficiency.
+Stats, streaks, and language proportions reflect live public GitHub data and may be delayed or rate-limited. Top languages describe code volume across public repositories—not proficiency.
 
-Cards use the public [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) services.
+Widgets provided by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats).
+
+---
 
 ## 04 / Outbound
 
 ![Closing panel: 0xyz-exe field notes, with two verified outbound destinations](./assets/contact-outro.svg)
 
-[GitHub profile ↗](https://github.com/0xyz-exe) &nbsp; / &nbsp; [Portfolio ↗](https://0xyz-exe.github.io/)
+[GitHub Profile ↗](https://github.com/0xyz-exe) &nbsp; / &nbsp; [Portfolio ↗](https://0xyz-exe.github.io/)
 
 <sub>PUBLIC CHANNELS ONLY · SURABAYA, INDONESIA</sub>
