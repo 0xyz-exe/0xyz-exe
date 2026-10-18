@@ -1,0 +1,83 @@
+name: Daily Repository Maintenance
+
+on:
+  schedule:
+    - cron: '15 0 * * *'  # 07:15 WIB (00:15 UTC = 07:15 UTC+7)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  maintenance:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332  # v4.1.7
+      
+      - name: Validate repository structure
+        id: validate
+        run: |
+          set -e
+          
+          # Count and validate SVG assets
+          svg_count=0
+          for svg in assets/*.svg; do
+            # Check file starts with valid XML/SVG tag
+            if head -1 "$svg" | grep -qE '<(\?xml|svg)'; then
+              ((svg_count++))
+            else
+              echo "::error file=$svg::Invalid SVG format"
+              exit 1
+            fi
+          done
+          
+          # Validate README exists and has content
+          if [ ! -f README.md ] || [ ! -s README.md ]; then
+            echo "::error file=README.md::README.md missing or empty"
+            exit 1
+          fi
+          
+          readme_size=$(wc -c < README.md)
+          
+          # Output for later steps
+          echo "svg_count=$svg_count" >> $GITHUB_OUTPUT
+          echo "readme_size=$readme_size" >> $GITHUB_OUTPUT
+          
+          echo "✓ Validated: $svg_count SVG files, ${readme_size}-byte README"
+          
+      - name: Check for structural changes
+        id: changes
+        run: |
+          mkdir -p .maintenance
+          
+          # Generate current state signature
+          current_state="${{ steps.validate.outputs.svg_count }}:${{ steps.validate.outputs.readme_size }}"
+          
+          # Compare with last known state
+          if [ -f .maintenance/structure.txt ]; then
+            last_state=$(cat .maintenance/structure.txt)
+            if [ "$current_state" = "$last_state" ]; then
+              echo "changed=false" >> $GITHUB_OUTPUT
+              echo "No structural changes detected"
+            else
+              echo "changed=true" >> $GITHUB_OUTPUT
+              echo "Structure changed: $last_state → $current_state"
+            fi
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Initial structure snapshot"
+          fi
+          
+          # Write current state
+          echo "$current_state" > .maintenance/structure.txt
+          
+      - name: Commit structural changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .maintenance/structure.txt
+          git commit -m "chore: update repository structure snapshot"
+          git push
