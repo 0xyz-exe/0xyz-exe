@@ -2,6 +2,9 @@
 
 # SYSTEM IDENTITY / 001
 
+[![Daily Maintenance](https://github.com/0xyz-exe/0xyz-exe/actions/workflows/daily-maintenance.yml/badge.svg)](https://github.com/0xyz-exe/0xyz-exe/actions/workflows/daily-maintenance.yml)
+
+
 **Building systems at the edge of software and intelligence.**
 
 I design and engineer web applications, AI-driven tools, multi-agent orchestration systems, and computer-vision pipelines. Full-stack developer and ML engineer based in Surabaya, Indonesia.
