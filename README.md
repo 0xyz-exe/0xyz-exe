@@ -76,15 +76,15 @@ A multi-tenant AI/RAG platform starter built around Next.js, FastAPI, PostgreSQL
 ## 02 / Technical Stack
 
 <p align="center">
-  <a href="https://skillicons.dev" title="Technology icons"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,python,postgres,redis,docker,git,github&theme=dark&perline=14&size=28" alt="Tech stack icons: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, PHP, Python, PostgreSQL, Redis, Docker, Git, and GitHub" /></a>
+  <a href="https://skillicons.dev" title="Technology icons"><img src="https://skillicons.dev/icons?i=php,python,js,ts,cpp,lua,html,css,react,nextjs,laravel,tailwind,postgres,redis,docker,git,github&theme=dark&perline=17&size=28" alt="Tech stack icons: PHP, Python, JavaScript, TypeScript, C++, Lua, HTML, CSS, React, Next.js, Laravel, Tailwind CSS, PostgreSQL, Redis, Docker, Git, and GitHub" /></a>
 </p>
 
-**Also in the featured projects:** FastAPI · NestJS · SQLAlchemy · Prisma · Socket.IO · Qdrant · Celery · MinIO · OpenCV · YOLO
+**Also in the featured projects:** FastAPI · NestJS · SQLAlchemy · Prisma · Socket.IO · Qdrant · Celery · MinIO · OpenCV · YOLO · Streamlit · Blade
 
-**Languages:** TypeScript, Python, JavaScript, PHP  
-**Web:** Next.js, React, NestJS, FastAPI, Tailwind CSS  
-**Data:** PostgreSQL, Redis, Qdrant (vector search), SQLAlchemy, Prisma  
-**AI/ML:** OpenCV, YOLO, LLM orchestration, RAG pipelines  
+**Languages:** PHP, Python, JavaScript, TypeScript, C++, Lua  
+**Web Frameworks:** Next.js, React, Laravel (Blade), NestJS, FastAPI, Tailwind CSS  
+**Data & Storage:** PostgreSQL, Redis, Qdrant (vector search), SQLAlchemy, Prisma  
+**AI/ML:** OpenCV, YOLO, LLM orchestration, RAG pipelines, Streamlit  
 **Infrastructure:** Docker, Git/GitHub, Celery, MinIO/S3
 
 ---
