@@ -1,9 +1,9 @@
 ![0xyz-exe — an original dark field-register header with an orbital wireframe, chartreuse coordinate grid, and the software / intelligence / computer-vision descriptor](./assets/profile-header.svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nadhifxfx&label=Profile%20views&color=0e75b6&style=flat" alt="0xyz-exe" />
-  <img src="https://img.shields.io/github/followers/Nadhifxfx?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Nadhifxfx?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=0xyz-exe&label=Profile%20views&color=0e75b6&style=flat" alt="0xyz-exe" />
+  <img src="https://img.shields.io/github/followers/0xyz-exe?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/0xyz-exe?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
 </p>
 
 # SYSTEM IDENTITY / 001
