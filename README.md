@@ -79,6 +79,26 @@ A multi-tenant AI/RAG platform starter built around Next.js, FastAPI, PostgreSQL
 
 ---
 
+## Featured Engineering Projects — 2026
+
+### [MigrationPilot ↗](https://github.com/0xyz-exe/migrationpilot)
+
+PostgreSQL migration safety analyzer with AST-based DDL analysis, deterministic rules, risk explanations, zero-downtime SQL guidance, CLI checks, and SARIF output. **Stack:** `TYPESCRIPT` `POSTGRESQL` `NODE.JS`.
+
+### [AI Privacy Gateway ↗](https://github.com/0xyz-exe/ai-privacy-gateway)
+
+Self-hostable, OpenAI-compatible AI proxy with PII redaction, privacy policy modes, request-scoped restoration, provider routing, and SSRF defenses. **Stack:** `PYTHON` `FASTAPI` `REACT` `DOCKER`.
+
+### [OSS Dependency Intelligence ↗](https://github.com/0xyz-exe/oss-dependency-intelligence)
+
+Local-first software composition analysis for multi-ecosystem dependency discovery, OSV vulnerability checks, SPDX license policies, and CycloneDX/SPDX SBOM exports. **Stack:** `PYTHON` `FASTAPI` `REACT` `SQLITE`.
+
+### [DataSphere ↗](https://github.com/0xyz-exe/datasphere)
+
+Browser-local CSV/JSON analytics workspace with profiling, transformations, interactive 2D/3D visualizations, and IndexedDB persistence. **Stack:** `REACT` `TYPESCRIPT` `ECHARTS` `THREE.JS`.
+
+---
+
 ## 02 / Technical Stack
 
 <p align="center">
