@@ -136,7 +136,7 @@ Browser-local CSV/JSON analytics workspace with profiling, transformations, inte
 ---
 
 
-## 04 / GitHub Activity
+## 03 / GitHub Activity
 
 <p align="center">
   <a href="https://github.com/0xyz-exe?tab=overview"><img src="https://github-readme-stats.vercel.app/api?username=0xyz-exe&show_icons=true&hide_rank=true&count_private=false&bg_color=1B1F2A&title_color=7AA2F7&text_color=53D8D1&icon_color=BB9AF7&border_color=3A4052" width="49%" alt="Live public GitHub statistics for 0xyz-exe; rank hidden" /></a>
@@ -157,7 +157,7 @@ Widgets provided by [github-readme-stats](https://github.com/anuraghazra/github-
 
 ---
 
-## 05 / Outbound
+## 04 / Outbound
 
 ![Closing panel: 0xyz-exe field notes, with two verified outbound destinations](./assets/contact-outro.svg)
 
