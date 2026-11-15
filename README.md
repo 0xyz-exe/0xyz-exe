@@ -41,7 +41,33 @@ I build software where clarity, maintainability, and practical problem-solving m
 
 ---
 
-## 01 / Project Index
+## 01 / Technical Stack
+
+<p align="center">
+  <a href="https://skillicons.dev" title="Technology icons"><img src="https://skillicons.dev/icons?i=php,python,js,ts,cpp,lua,html,css,react,nextjs,laravel,tailwind,postgres,redis,docker,git,github&theme=dark&perline=17&size=28" alt="Tech stack icons: PHP, Python, JavaScript, TypeScript, C++, Lua, HTML, CSS, React, Next.js, Laravel, Tailwind CSS, PostgreSQL, Redis, Docker, Git, and GitHub" /></a>
+</p>
+
+**Additional verified technology icons:** C++ · FastAPI · NestJS · Prisma · SQLite · Three.js · Vitest
+
+<p>
+  <img src="./assets/icons/CPP.svg" width="44" height="44" alt="C++" />
+  <img src="./assets/icons/FastAPI.svg" width="44" height="44" alt="FastAPI" />
+  <img src="./assets/icons/NestJS-Dark.svg" width="44" height="44" alt="NestJS" />
+  <img src="./assets/icons/Prisma.svg" width="44" height="44" alt="Prisma" />
+  <img src="./assets/icons/SQLite.svg" width="44" height="44" alt="SQLite" />
+  <img src="./assets/icons/ThreeJS-Dark.svg" width="44" height="44" alt="Three.js" />
+  <img src="./assets/icons/Vitest-Dark.svg" width="44" height="44" alt="Vitest" />
+</p>
+
+**Also in the featured projects:** FastAPI · NestJS · SQLAlchemy · Prisma · Socket.IO · Qdrant · Celery · MinIO · OpenCV · YOLO · Streamlit · Blade
+
+**Icon sources:** [Skill Icons](https://github.com/tandpfun/skill-icons), MIT License. SVG files are unmodified source assets. Items without verified icon matches remain text-only.
+
+**Languages:** PHP, Python, JavaScript, TypeScript, C++, Lua<br>**Web Frameworks:** Next.js, React, Laravel (Blade), NestJS, FastAPI, Tailwind CSS<br>**Data & Storage:** PostgreSQL, Redis, Qdrant (vector search), SQLAlchemy, Prisma<br>**AI/ML:** OpenCV, YOLO, LLM orchestration, RAG pipelines, Streamlit<br>**Infrastructure:** Docker, Git/GitHub, Celery, MinIO/S3
+
+---
+
+## 02 / Project Index
 
 Each panel is an original illustration of a documented project concept, not a screenshot or a claim that an integration is production-ready.
 
@@ -109,37 +135,8 @@ Browser-local CSV/JSON analytics workspace with profiling, transformations, inte
 
 ---
 
-## 02 / Technical Stack
 
-<p align="center">
-  <a href="https://skillicons.dev" title="Technology icons"><img src="https://skillicons.dev/icons?i=php,python,js,ts,cpp,lua,html,css,react,nextjs,laravel,tailwind,postgres,redis,docker,git,github&theme=dark&perline=17&size=28" alt="Tech stack icons: PHP, Python, JavaScript, TypeScript, C++, Lua, HTML, CSS, React, Next.js, Laravel, Tailwind CSS, PostgreSQL, Redis, Docker, Git, and GitHub" /></a>
-</p>
-
-**Additional verified technology icons:** C++ · FastAPI · NestJS · Prisma · SQLite · Three.js · Vitest
-
-<p>
-  <img src="./assets/icons/CPP.svg" width="44" height="44" alt="C++" />
-  <img src="./assets/icons/FastAPI.svg" width="44" height="44" alt="FastAPI" />
-  <img src="./assets/icons/NestJS-Dark.svg" width="44" height="44" alt="NestJS" />
-  <img src="./assets/icons/Prisma.svg" width="44" height="44" alt="Prisma" />
-  <img src="./assets/icons/SQLite.svg" width="44" height="44" alt="SQLite" />
-  <img src="./assets/icons/ThreeJS-Dark.svg" width="44" height="44" alt="Three.js" />
-  <img src="./assets/icons/Vitest-Dark.svg" width="44" height="44" alt="Vitest" />
-</p>
-
-**Also in the featured projects:** FastAPI · NestJS · SQLAlchemy · Prisma · Socket.IO · Qdrant · Celery · MinIO · OpenCV · YOLO · Streamlit · Blade
-
-**Icon sources:** [Skill Icons](https://github.com/tandpfun/skill-icons), MIT License. SVG files are unmodified source assets. Items without verified icon matches remain text-only.
-
-**Languages:** PHP, Python, JavaScript, TypeScript, C++, Lua  
-**Web Frameworks:** Next.js, React, Laravel (Blade), NestJS, FastAPI, Tailwind CSS  
-**Data & Storage:** PostgreSQL, Redis, Qdrant (vector search), SQLAlchemy, Prisma  
-**AI/ML:** OpenCV, YOLO, LLM orchestration, RAG pipelines, Streamlit  
-**Infrastructure:** Docker, Git/GitHub, Celery, MinIO/S3
-
----
-
-## 03 / GitHub Activity
+## 04 / GitHub Activity
 
 <p align="center">
   <a href="https://github.com/0xyz-exe?tab=overview"><img src="https://github-readme-stats.vercel.app/api?username=0xyz-exe&show_icons=true&hide_rank=true&count_private=false&bg_color=1B1F2A&title_color=7AA2F7&text_color=53D8D1&icon_color=BB9AF7&border_color=3A4052" width="49%" alt="Live public GitHub statistics for 0xyz-exe; rank hidden" /></a>
@@ -160,7 +157,7 @@ Widgets provided by [github-readme-stats](https://github.com/anuraghazra/github-
 
 ---
 
-## 04 / Outbound
+## 05 / Outbound
 
 ![Closing panel: 0xyz-exe field notes, with two verified outbound destinations](./assets/contact-outro.svg)
 
