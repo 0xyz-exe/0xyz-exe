@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering focus</title>
+  <desc id="desc">Four engineering focus areas: full-stack engineering, AI and machine learning, backend engineering, and mobile development exploration.</desc>
+  <defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#526052" stroke-opacity=".18" stroke-width=".7"/></pattern></defs>
+  <rect width="1200" height="300" rx="14" fill="#0b100d"/><rect width="1200" height="300" rx="14" fill="url(#grid)"/>
+  <text x="38" y="48" fill="#d6ef70" font-family="monospace" font-size="13" letter-spacing="2">ENGINEERING FOCUS / 2026</text>
+  <g font-family="monospace">
+    <g transform="translate(38 80)"><rect width="548" height="82" rx="9" fill="#111812" stroke="#536248"/><circle cx="28" cy="28" r="8" fill="none" stroke="#d6ef70" stroke-width="2"/><path d="M18 52h20M28 42v20" stroke="#d6ef70" stroke-width="2"/><text x="58" y="34" fill="#e7ece5" font-size="17">FULL-STACK ENGINEERING</text><text x="58" y="59" fill="#89958c" font-size="12">WEB APPLICATIONS / INTERFACE SYSTEMS</text></g>
+    <g transform="translate(614 80)"><rect width="548" height="82" rx="9" fill="#111812" stroke="#4c4771"/><circle cx="28" cy="28" r="10" fill="none" stroke="#9a88f2" stroke-width="2"/><circle cx="28" cy="28" r="3" fill="#9a88f2"/><path d="M28 11v7m0 20v7M11 28h7m20 0h7M16 16l5 5m14 14 5 5m0-24-5 5M21 35l-5 5" stroke="#9a88f2" stroke-width="1.5"/><text x="58" y="34" fill="#e7ece5" font-size="17">AI / MACHINE LEARNING</text><text x="58" y="59" fill="#89958c" font-size="12">LLM ORCHESTRATION / APPLIED VISION</text></g>
+    <g transform="translate(38 178)"><rect width="548" height="82" rx="9" fill="#111812" stroke="#536248"/><path d="M18 18h20v20H18zM23 42h20v20H23z" fill="none" stroke="#d6ef70" stroke-width="2"/><path d="M28 38v4" stroke="#d6ef70" stroke-width="2"/><text x="58" y="34" fill="#e7ece5" font-size="17">BACKEND ENGINEERING</text><text x="58" y="59" fill="#89958c" font-size="12">APIS / DATA SYSTEMS / AUTOMATION</text></g>
+    <g transform="translate(614 178)"><rect width="548" height="82" rx="9" fill="#111812" stroke="#536052"/><rect x="19" y="12" width="20" height="39" rx="4" fill="none" stroke="#a8b1a9" stroke-width="2"/><circle cx="29" cy="45" r="1.8" fill="#d6ef70"/><text x="58" y="34" fill="#e7ece5" font-size="17">MOBILE DEVELOPMENT</text><text x="58" y="59" fill="#89958c" font-size="12">EXPLORATION / NOT A CLAIM OF SHIPPED WORK</text></g>
+  </g>
+</svg>

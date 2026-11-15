@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Technology ecosystem</title>
+  <desc id="desc">Technology categories used across documented projects: languages, frontend, backend and AI, data, and infrastructure.</desc>
+  <defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#526052" stroke-opacity=".18" stroke-width=".7"/></pattern></defs>
+  <rect width="1200" height="390" rx="14" fill="#0b100d"/><rect width="1200" height="390" rx="14" fill="url(#grid)"/>
+  <text x="36" y="43" fill="#d6ef70" font-family="monospace" font-size="13" letter-spacing="2">TECHNOLOGY ECOSYSTEM / SELECTED PROJECT STACKS</text>
+  <g font-family="monospace">
+    <g transform="translate(36 66)"><rect width="356" height="119" rx="9" fill="#111812" stroke="#536248"/><text x="18" y="28" fill="#d6ef70" font-size="12" letter-spacing="1">01 / LANGUAGES</text><text x="18" y="59" fill="#e7ece5" font-size="15">PHP · PYTHON · JAVASCRIPT</text><text x="18" y="85" fill="#a8b1a9" font-size="15">TYPESCRIPT · C++ · LUA</text></g>
+    <g transform="translate(422 66)"><rect width="356" height="119" rx="9" fill="#111812" stroke="#536248"/><text x="18" y="28" fill="#d6ef70" font-size="12" letter-spacing="1">02 / FRONTEND</text><text x="18" y="59" fill="#e7ece5" font-size="15">REACT · NEXT.JS · VITE</text><text x="18" y="85" fill="#a8b1a9" font-size="15">TAILWIND · ECHARTS · THREE.JS</text></g>
+    <g transform="translate(808 66)"><rect width="356" height="119" rx="9" fill="#111812" stroke="#4c4771"/><text x="18" y="28" fill="#b9abff" font-size="12" letter-spacing="1">03 / BACKEND + AI</text><text x="18" y="59" fill="#e7ece5" font-size="15">LARAVEL · FASTAPI · NESTJS</text><text x="18" y="85" fill="#a8b1a9" font-size="15">OPENCV · YOLO · LLM / RAG</text></g>
+    <g transform="translate(36 205)"><rect width="548" height="145" rx="9" fill="#111812" stroke="#536248"/><text x="18" y="29" fill="#d6ef70" font-size="12" letter-spacing="1">04 / DATA + STORAGE</text><text x="18" y="65" fill="#e7ece5" font-size="15">POSTGRESQL · SQLITE · REDIS</text><text x="18" y="94" fill="#a8b1a9" font-size="14">PRISMA · SQLALCHEMY · QDRANT</text><text x="18" y="121" fill="#a8b1a9" font-size="14">MINIO / S3 · INDEXEDDB</text></g>
+    <g transform="translate(614 205)"><rect width="550" height="145" rx="9" fill="#111812" stroke="#536248"/><text x="18" y="29" fill="#d6ef70" font-size="12" letter-spacing="1">05 / INFRA + TOOLING</text><text x="18" y="65" fill="#e7ece5" font-size="15">DOCKER · CELERY · GIT / GITHUB</text><text x="18" y="94" fill="#a8b1a9" font-size="14">SOCKET.IO · STREAMLIT · VITEST</text><text x="18" y="121" fill="#89958c" font-size="12">STACK ITEMS SHOWN WHERE DOCUMENTED IN PROFILE PROJECTS</text></g>
+  </g>
+</svg>

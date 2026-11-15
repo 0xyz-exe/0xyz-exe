@@ -37,6 +37,8 @@ I build software where clarity, maintainability, and practical problem-solving m
 - Computer vision applications (OpenCV, YOLO)
 - Developer tooling and automation systems
 
+![Engineering focus areas: full-stack, AI/ML, backend, and mobile exploration](./assets/engineering-focus.svg)
+
 ---
 
 ## 01 / Project Index
@@ -83,17 +85,25 @@ A multi-tenant AI/RAG platform starter built around Next.js, FastAPI, PostgreSQL
 
 ### [MigrationPilot ↗](https://github.com/0xyz-exe/migrationpilot)
 
+![MigrationPilot static PostgreSQL migration analysis illustration](./assets/project-migrationpilot.svg)
+
 PostgreSQL migration safety analyzer with AST-based DDL analysis, deterministic rules, risk explanations, zero-downtime SQL guidance, CLI checks, and SARIF output. **Stack:** `TYPESCRIPT` `POSTGRESQL` `NODE.JS`.
 
 ### [AI Privacy Gateway ↗](https://github.com/0xyz-exe/ai-privacy-gateway)
+
+![AI Privacy Gateway request inspection and policy enforcement illustration](./assets/project-ai-privacy-gateway.svg)
 
 Self-hostable, OpenAI-compatible AI proxy with PII redaction, privacy policy modes, request-scoped restoration, provider routing, and SSRF defenses. **Stack:** `PYTHON` `FASTAPI` `REACT` `DOCKER`.
 
 ### [OSS Dependency Intelligence ↗](https://github.com/0xyz-exe/oss-dependency-intelligence)
 
+![OSS Dependency Intelligence dependency and SBOM workflow illustration](./assets/project-oss-dependency-intelligence.svg)
+
 Local-first software composition analysis for multi-ecosystem dependency discovery, OSV vulnerability checks, SPDX license policies, and CycloneDX/SPDX SBOM exports. **Stack:** `PYTHON` `FASTAPI` `REACT` `SQLITE`.
 
 ### [DataSphere ↗](https://github.com/0xyz-exe/datasphere)
+
+![DataSphere browser-local data analytics workspace illustration](./assets/project-datasphere.svg)
 
 Browser-local CSV/JSON analytics workspace with profiling, transformations, interactive 2D/3D visualizations, and IndexedDB persistence. **Stack:** `REACT` `TYPESCRIPT` `ECHARTS` `THREE.JS`.
 
@@ -105,7 +115,21 @@ Browser-local CSV/JSON analytics workspace with profiling, transformations, inte
   <a href="https://skillicons.dev" title="Technology icons"><img src="https://skillicons.dev/icons?i=php,python,js,ts,cpp,lua,html,css,react,nextjs,laravel,tailwind,postgres,redis,docker,git,github&theme=dark&perline=17&size=28" alt="Tech stack icons: PHP, Python, JavaScript, TypeScript, C++, Lua, HTML, CSS, React, Next.js, Laravel, Tailwind CSS, PostgreSQL, Redis, Docker, Git, and GitHub" /></a>
 </p>
 
+**Additional verified technology icons:** C++ · FastAPI · NestJS · Prisma · SQLite · Three.js · Vitest
+
+<p>
+  <img src="./assets/icons/CPP.svg" width="44" height="44" alt="C++" />
+  <img src="./assets/icons/FastAPI.svg" width="44" height="44" alt="FastAPI" />
+  <img src="./assets/icons/NestJS-Dark.svg" width="44" height="44" alt="NestJS" />
+  <img src="./assets/icons/Prisma.svg" width="44" height="44" alt="Prisma" />
+  <img src="./assets/icons/SQLite.svg" width="44" height="44" alt="SQLite" />
+  <img src="./assets/icons/ThreeJS-Dark.svg" width="44" height="44" alt="Three.js" />
+  <img src="./assets/icons/Vitest-Dark.svg" width="44" height="44" alt="Vitest" />
+</p>
+
 **Also in the featured projects:** FastAPI · NestJS · SQLAlchemy · Prisma · Socket.IO · Qdrant · Celery · MinIO · OpenCV · YOLO · Streamlit · Blade
+
+**Icon sources:** [Skill Icons](https://github.com/tandpfun/skill-icons), MIT License. SVG files are unmodified source assets. Items without verified icon matches remain text-only.
 
 **Languages:** PHP, Python, JavaScript, TypeScript, C++, Lua  
 **Web Frameworks:** Next.js, React, Laravel (Blade), NestJS, FastAPI, Tailwind CSS  
